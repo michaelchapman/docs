@@ -27,7 +27,7 @@ The key requirements are summarised below but it is your responsibility to famil
 
 ### Use of data
 *	You may only use data made available through CLIMB-COVID to support the work of the COG-UK consortium. Where you are granted access to restricted datasets they may only be used for the approved purpose.<sup>3</sup>
-*	You may not download metadata classified as as ‘consortium access’ or ‘restricted access’ from CLIMB-COVID. (See classification of data items). Analysis of consortium or restricted access data must be conducted on CLIMB-COVID.<sup>4</sup> For clarity:
+*	You may not download metadata classified as as ‘consortium access’ or ‘restricted access’ from CLIMB-COVID. (See [classification of data items](data-classification)). Analysis of consortium or restricted access data must be conducted on CLIMB-COVID.<sup>4</sup> For clarity:
     *	You may download the results of your analysis, but must take appropriate care that there do not include consortium or restricted access data items and do not pose a risk of re-identifying an individual. If in doubt, please contact [COGUK_DataAccess@medschl.cam.ac.uk](mailto:COGUK_DataAccess@medschl.cam.ac.uk).<sup>5</sup>
     *	Sequences and a small number of variables (`central sample ID`, `adm1` and `date of sample collection / receipt`) are placed in the public domain and may be analysed locally.<sup>6</sup>
 *	You must have completed data protection training within the past year and must provide evidence of this to COG-UK team (see details of appropriate training below).<sup>7</sup>
