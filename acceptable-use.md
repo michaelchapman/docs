@@ -10,13 +10,13 @@ maintainer: michaelrchapman
 # CLIMB-COVID Acceptable Use Policy
 
 Use of the CLIMB-COVID system is bound by:
-* The conditions of the COG-UK data access agreement [Add link].
+* The conditions of the COG-UK Consortium Agreement.
 * The overall [CLIMB Big Data Acceptable Use Policy](https://discourse.climb.ac.uk/t/climb-big-data-terms-and-conditions-for-users-may-2020/1236)
 * Your employer's own acceptable use, security and data management policies.
 
 Depending on your role in the consortium, you will be able to contribute data and / or access data collected by COG-UK for analysis. **You must comply with these policies at all times when carrying out your work for the consortium.** COG-UK has been able to assemble a rich dataset to allow research into SARS-CoV-2. Our continued ability to do this depends on everyone using this appropriately.
 
-The key requirements are summarised below but it is your responsibility to familiarise yourself with the relevant policies. If in doubt please read the [documentation](https://docs.covid19.climb.ac.uk/), speak to your site lead or email [COG-UK email].
+The key requirements are summarised below but it is your responsibility to familiarise yourself with the relevant policies. If in doubt please read the [documentation](https://docs.covid19.climb.ac.uk/), speak to your site lead or email [COGUK_DataAccess@medschl.cam.ac.uk](mailto:COGUK_DataAccess@medschl.cam.ac.uk).
 
 ## Key requirements for use of CLIMB-COVID
 
@@ -27,13 +27,13 @@ The key requirements are summarised below but it is your responsibility to famil
 
 ### Use of data
 *	You may only use data made available through CLIMB-COVID to support the work of the COG-UK consortium. Where you are granted access to restricted datasets they may only be used for the approved purpose.<sup>3</sup>
-*	You may not download COG-UK data from CLIMB-COVID. Analysis must be conducted on CLIMB-COVID.<sup>4</sup> Exceptions are:
-    *	You may download the results of your analysis, but must take appropriate care that there do not include COG-UK data and do not pose a risk of re-identifying an individual. If in doubt, please contact [COG-UK email].<sup>5</sup>
-    *	Sequences and a small number of variables (central sample ID, adm1 and date of sample collection / receipt) are placed in the public domain and may be analysed locally.<sup>6</sup>
+*	You may not download metadata classified as as ‘consortium access’ or ‘restricted access’ from CLIMB-COVID. (See classification of data items). Analysis of consortium or restricted access data must be conducted on CLIMB-COVID.<sup>4</sup> For clarity:
+    *	You may download the results of your analysis, but must take appropriate care that there do not include consortium or restricted access data items and do not pose a risk of re-identifying an individual. If in doubt, please contact [COGUK_DataAccess@medschl.cam.ac.uk](mailto:COGUK_DataAccess@medschl.cam.ac.uk).<sup>5</sup>
+    *	Sequences and a small number of variables (`central sample ID`, `adm1` and `date of sample collection / receipt`) are placed in the public domain and may be analysed locally.<sup>6</sup>
 *	You must have completed data protection training within the past year and must provide evidence of this to COG-UK team (see details of appropriate training below).<sup>7</sup>
 *	You must keep the data confidential. You may not share or allow others to access COG-UK data.<sup>8</sup>
-*	You must not try to identify any individual in the COG-UK data or link this to other datasets that may lead to identification of an individual.<sup>9</sup>
-*	You must notify [COG-UK email] of any unauthorised or accidental access, use or disclosure of COG-UK data as soon as reasonably practicable.<sup>10</sup>
+*	You must not try to identify any individual in the COG-UK data in CLIMB-COVID or link this to other datasets that may lead to identification of an individual.<sup>9</sup>
+*	You must notify [COGUK_DataAccess@medschl.cam.ac.uk](mailto:COGUK_DataAccess@medschl.cam.ac.uk) of any unauthorised or accidental access, use or disclosure of COG-UK data as soon as reasonably practicable.<sup>10</sup>
  
 ### Publication of results
 *	You must comply with the COG-UK publication policy [Link], including the requirements for authorship, Steering Group review and funder acknowledgement.<sup>11</sup>
@@ -48,7 +48,7 @@ Acceptable forms of data protection training for accessing COG-UK data are:
 2.	[NHS Information Governance Training - Data Security Awareness Level 1](https://www.e-lfh.org.uk/programmes/data-security-awareness/) for those with NHS contracts.
 3.	[MRC e-learning: : Research, GDPR and confidentiality – what you really need to know](https://byglearning.co.uk/mrcrsc-lms/course/view.php?id=71).
 
-You must provide evidence that you have completed one of these to [COG-UK email] to use CLIMB-COVID.
+You must provide evidence that you have completed one of these to [COGUK_DataAccess@medschl.cam.ac.uk](mailto:COGUK_DataAccess@medschl.cam.ac.uk) to use CLIMB-COVID.
 
 ---
 
