@@ -10,8 +10,8 @@ maintainer: michaelrchapman
 # Classification of COG-UK biosample data
 
 This table shows the classification of data items covered by the COG-UK Consortium Agreement. Items are classified as:
-* Public: Accessible to the consortium without applciation. Released to public databases.
-* Consortium: Accessible to the consortium without applciation. May only be analysed on CLIMB-COVID.
+* Public: Accessible to the consortium without application. Released to public databases.
+* Consortium: Accessible to the consortium without application. May only be analysed on CLIMB-COVID.
 * Restricted: Require approval from the Steering Group and Public Health Agencies for use in specific analyses on CLIMB-COVID.
 
 **N.B. The inclusion of an item in this table does not mean it is available for analysis, simply that it has been approved for inclusion in the dataset if it can be obtained.**
