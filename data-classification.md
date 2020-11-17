@@ -21,6 +21,7 @@ Data item | Field name |  Access level (Public, Consortium or Restricted)
 **Sample identifiers**
 Central Sample ID | central_sample_id | Public
 COG-UK Patient ID | biosample_source_id | Consortium
+PHA Patient ID | root_biosample_source_id | Consortium
 PHA sample ID | root_sample_id | Restricted
 Local sample ID | sender_sample_id | Restricted
 **Sample details** |  | 
@@ -58,7 +59,3 @@ Admitting trust or board | admitted_hospital_trust_or_board | Restricted
 Admitted with COVID-19 diagnosis | admitted_with_covid_diagnosis | Restricted
 Critical care admission | is_icu_patient | Restricted
 Outcome | *tbc* | Restricted
-**Local investigations** |  | 
-Investigation name | investigation_name | Restricted
-Investigation site | investigation_site | Restricted
-Investigation cluster | investigation_cluster | Restricted
